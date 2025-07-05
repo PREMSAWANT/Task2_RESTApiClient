@@ -80,7 +80,7 @@ The prices of Bitcoin, Ethereum, and Dogecoin will be printed in a table format.
 
 📦 Sample Output:
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5f08f8e-f324-4937-a0b1-4b390d3b9990" />
 
 +------------+----------+
 | Coin       | Price($) |
